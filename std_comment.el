@@ -103,6 +103,7 @@
     (insert (concat (std-get 'cc) "     " projdescription))
     (newline)
     (insert (std-get 'ce))
+    (newline)
     (newline)))
 
 ;;; std_comment.el ends here
